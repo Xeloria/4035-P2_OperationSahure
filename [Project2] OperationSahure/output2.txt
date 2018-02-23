@@ -1,0 +1,4 @@
+Maximum seized assets: 92
+List 1: Jacob, Emma
+List 2: Jacob, William
+List 3: William, Jacob

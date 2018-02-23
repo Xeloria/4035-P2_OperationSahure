@@ -1,0 +1,5 @@
+****************************************************************
+Something went wrong while trying to open file "log3.txt"
+Please check that "log3.txt" exists and is properly
+located in the directory specified in: "input.txt"
+****************************************************************
